@@ -1,0 +1,8 @@
+emot==2.1.*
+gensim==3.8.*
+jupyterlab==3.0.*
+newmm-tokenizer==0.2.*
+pandarallel==1.5.*
+pandas==1.2.*
+scikit-learn==0.24.*
+th-simple-preprocessor==0.4.*
