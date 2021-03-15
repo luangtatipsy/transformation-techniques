@@ -130,3 +130,5 @@ dmypy.json
 
 # MacOS Binary files
 .DS_Store
+
+models/*.model
